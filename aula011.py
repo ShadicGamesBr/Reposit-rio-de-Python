@@ -1,0 +1,1 @@
+print("Cor \033[0;31mvermelha\033[m")

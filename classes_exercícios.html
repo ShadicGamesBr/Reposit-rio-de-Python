@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício </title>
+    <style>
+		body {
+			font-family: Arial, Helvetica, sans-serif, 'Arial Narrow', Arial, sans-serif;
+			font-size: 16px;
+		}
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+code {
+    font-family: Consolas, monospace;
+    font-size: 14px;
+    background-color: #c0dbff;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table th, table td {
+    border: 2px solid #1519ee;
+    padding: 5px;
+    text-align: left;
+    border-radius: 4px solid;
+}
+
+table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+</style>
+</head>
+<body>
+    <h1>Exercício de Classes em Python</h1>
+    <h2>Criando uma classe para representar um retângulo</h2>
+
+<p>Crie uma classe <code>Retangulo</code> que representa um retângulo com altura e largura. A classe deve ter os seguintes métodos:</p>
+
+<table>
+	<thead>
+		<tr>
+			<th>Método</th>
+			<th>Descrição</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><code>__init__(self, largura, altura)</code></td>
+			<td>Inicializa os atributos de largura e altura do retângulo.</td>
+		</tr>
+		<tr>
+			<td><code>area(self)</code></td>
+			<td>Retorna a área do retângulo.</td>
+		</tr>
+		<tr>
+			<td><code>perimetro(self)</code></td>
+			<td>Retorna o perímetro do retângulo.</td>
+		</tr>
+		<tr>
+			<td><code>diagonal(self)</code></td>
+			<td>Retorna o comprimento da diagonal do retângulo.</td>
+		</tr>
+		<tr>
+			<td><code>escala(self, escala)</code></td>
+			<td>Escala o retângulo por um fator especificado.</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Passo 1: Criando a classe Retangulo</h3>
+
+<p>Comece criando a classe <code>Retangulo</code> com o método <code>__init__</code> para inicializar os atributos de largura e altura do retângulo.</p>
+
+<code>
+	class Retangulo:<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def __init__(self, largura, altura):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.largura = largura<br>
+	&nbsp;&nbsp;&
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.altura = altura<br>
+</code>
+
+<h3>Passo 2: Adicionando os métodos de cálculo</h3>
+
+<p>Adicione os métodos <code>area</code>, <code>perimetro</code> e <code>diagonal</code> à classe <code>Retangulo</code>. Esses métodos devem calcular e retornar a área, o perímetro e a diagonal do retângulo, respectivamente.</p>
+
+<code>
+	class Retangulo:<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def __init__(self, largura, altura):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.largura = largura<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.altura = altura<br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def area(self):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return self.largura * self.altura<br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def perimetro(self):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 2 * (self.largura + self.altura)<br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def diagonal(self):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return (self.largura ** 2 + self.altura ** 2) ** 0.5<br>
+</code>
+
+<h3>Passo 3: Adicionando o método de escala</h3>
+
+<p>Adicione o método <code>escala</code> à classe <code>Retangulo</code>. Esse método deve escalar o retângulo por um fator especificado. Por exemplo, se o fator for 2, o retângulo deve ter sua largura e altura dobradas.</p>
+
+<code>
+	class Retangulo:<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def __init__(self, largura, altura):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.largura = largura<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.altura = altura<br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def area(self):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return self.largura * self.altura<br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def perimetro(self):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 2 * (self.largura + self.altura)<br>
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;def diagonal(self):<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return (self.largura ** 2 + self
