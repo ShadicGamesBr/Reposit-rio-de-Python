@@ -1,5 +1,4 @@
 from transformers import pipeline
-import pip install torch torchvision
 
 
 # define a tarefa de geração de texto usando o modelo GPT-2
