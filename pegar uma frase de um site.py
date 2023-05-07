@@ -7,5 +7,5 @@ driver = webdriver.Chrome()
 driver.get("https://sed.educacao.sp.gov.br/Boletim/GerarBoletimUnificadoExterno?nrRa=000107058875&nrDigRa=1&dsUfRa=SP&dtNascimento=23/06/2003&nrAnoLetivo=2020")
 
 wait = WebDriverWait(driver, 20)
-frase = wait.until(expected_conditions.presence_of_element_located((By.XPATH, "/html/body/div/div/div[3]/div/div[1]/div[2]")))
+frase = wait.until(expected_conditions.presence_of_element_located((By.XPATH, "/html/body/div/div/div[4]/table")))
 print(frase.text)

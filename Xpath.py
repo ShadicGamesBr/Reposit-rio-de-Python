@@ -7,20 +7,25 @@ ra = str(input("RA do aluno: ")).strip()
 data = str(input("Data de nascimento: ")).strip()
 digito = str(input("Dígito verificador: ")).strip()
 driver = webdriver.Chrome()
+wait = WebDriverWait(driver, 15)
+for ano in range(2014, 2023):
+    try:
+        print(f"\033[34mAno de {ano}\033[m")
+        driver.get(
+            f"https://sed.educacao.sp.gov.br/Boletim/GerarBoletimUnificadoExterno?nrRa={'000'+ra}&nrDigRa={digito}&dsUfRa=SP&dtNascimento={data}&nrAnoLetivo={000+ano}")
+        print("\n")
 
-for ano in range(2015, 2022):
-    print(f"\033[34mAno de {ano}\033[m")
-    driver.get(
-        f"https://sed.educacao.sp.gov.br/Boletim/GerarBoletimUnificadoExterno?nrRa={'000'+ra}&nrDigRa=1&dsUfRa=SP&dtNascimento=23/06/2003&nrAnoLetivo={000+ano}")
-    print("\n")
-    wait = WebDriverWait(driver, 15)
-    elementos = wait.until(EC.presence_of_all_elements_located((By.XPATH, "/html/body/div/div/div[4]/table")))
-    nome = wait.until(EC.presence_of_all_elements_located((By.XPATH, "/html/body/div/div/div[2]/div/div/div[2]")))
-    if len(elementos) > 0:
+        elementos = wait.until(EC.presence_of_all_elements_located((By.XPATH, "/html/body/div/div/div[4]/table")))
         frase = elementos[0]
-        print(frase.text)
-    else:
-        print("Ano não disponível")
+        print(f"\033[32m{frase.text}\033[m")
+
+    except:
+        print("\033[31mAno indisponível\033[m")
+    #if len(elementos) > 0:
+    #    frase = elementos[0]
+    #    print(frase.text)
+    #else:
+    #    print("Ano não disponível")
 
     print("\n\n\n")
 driver.quit()
