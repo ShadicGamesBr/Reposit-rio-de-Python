@@ -20,5 +20,3 @@ while True:
         print(f"{p} tem o valor {y}")
     print(f"Aposentadoria tem o valor {dados['Contr'] + 35 - (datetime.datetime.today().year - dados['Idade'])}")
     break
-
-
