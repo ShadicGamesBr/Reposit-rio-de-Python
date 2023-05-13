@@ -7,7 +7,7 @@ data = str(input("Data de nascimento: ")).strip()
 digito = str(input("Dígito verificador: ")).strip()
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 4)
-texto = open("resultados_Felipe.txt", "a")
+#texto = open("resultados_Felipe.txt", "a")
 resultados = []
 data.replace("", "/").strip()
 for ano in range(2015, 2022):
@@ -27,7 +27,7 @@ for ano in range(2015, 2022):
         print(f"\033[31mNome: {nomeRA.text}\033[m".upper().strip())
         print("\n")
         resultados.append(f"\033[32m{frase.text}\033[m")
-        texto.writelines(f"{frase.text}")
+        #texto.writelines(f"{frase.text}")
         #.strip().replace("\n", ""). replace(" ", "")
         #print(resultados)
     except:

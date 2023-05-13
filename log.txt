@@ -1,0 +1,270 @@
+RA: 106190027, Digito 1, DATA: 22/06/2004
+RA: 106190028, Digito 1, DATA: 22/06/2004
+RA: 106190027, Digito 1, DATA: 22/06/2004
+RA: 106190028, Digito 1, DATA: 22/06/2004
+RA: 106190027, Digito 1, DATA: 22/06/2004
+RA: 106190029, Digito 1, DATA: 22/06/2004
+RA: 106190028, Digito 1, DATA: 22/06/2004
+RA: 106190030, Digito 1, DATA: 22/06/2004
+RA: 106190029, Digito 1, DATA: 22/06/2004
+RA: 106190031, Digito 1, DATA: 22/06/2004
+RA: 106190030, Digito 1, DATA: 22/06/2004
+RA: 106190032, Digito 1, DATA: 22/06/2004
+RA: 106190031, Digito 1, DATA: 22/06/2004
+RA: 106190033, Digito 1, DATA: 22/06/2004
+RA: 106190032, Digito 1, DATA: 22/06/2004
+RA: 106190034, Digito 1, DATA: 22/06/2004
+RA: 106190033, Digito 1, DATA: 22/06/2004
+RA: 106190035, Digito 1, DATA: 22/06/2004
+RA: 106190034, Digito 1, DATA: 22/06/2004
+RA: 106190036, Digito 1, DATA: 22/06/2004
+RA: 106190035, Digito 1, DATA: 22/06/2004
+RA: 106190037, Digito 1, DATA: 22/06/2004
+RA: 106190036, Digito 1, DATA: 22/06/2004
+RA: 106190038, Digito 1, DATA: 22/06/2004
+RA: 106190037, Digito 1, DATA: 22/06/2004
+RA: 106190039, Digito 1, DATA: 22/06/2004
+RA: 106190038, Digito 1, DATA: 22/06/2004
+RA: 106190040, Digito 1, DATA: 22/06/2004
+RA: 106190039, Digito 1, DATA: 22/06/2004
+RA: 106190041, Digito 1, DATA: 22/06/2004
+RA: 106190040, Digito 1, DATA: 22/06/2004
+RA: 106190042, Digito 1, DATA: 22/06/2004
+RA: 106190041, Digito 1, DATA: 22/06/2004
+RA: 106190043, Digito 1, DATA: 22/06/2004
+RA: 106190042, Digito 1, DATA: 22/06/2004
+RA: 106190044, Digito 1, DATA: 22/06/2004
+RA: 106190043, Digito 1, DATA: 22/06/2004
+RA: 106190045, Digito 1, DATA: 22/06/2004
+RA: 106190044, Digito 1, DATA: 22/06/2004
+RA: 106190046, Digito 1, DATA: 22/06/2004
+RA: 106190045, Digito 1, DATA: 22/06/2004
+RA: 106190047, Digito 1, DATA: 22/06/2004
+RA: 106190046, Digito 1, DATA: 22/06/2004
+RA: 106190048, Digito 1, DATA: 22/06/2004
+RA: 106190047, Digito 1, DATA: 22/06/2004
+RA: 106190049, Digito 1, DATA: 22/06/2004
+RA: 106190048, Digito 1, DATA: 22/06/2004
+RA: 106190050, Digito 1, DATA: 22/06/2004
+RA: 106190049, Digito 1, DATA: 22/06/2004
+RA: 106190051, Digito 1, DATA: 22/06/2004
+RA: 106190050, Digito 1, DATA: 22/06/2004
+RA: 106190052, Digito 1, DATA: 22/06/2004
+RA: 106190051, Digito 1, DATA: 22/06/2004
+RA: 106190053, Digito 1, DATA: 22/06/2004
+RA: 106190052, Digito 1, DATA: 22/06/2004
+RA: 106190054, Digito 1, DATA: 22/06/2004
+RA: 106190053, Digito 1, DATA: 22/06/2004
+RA: 106190055, Digito 1, DATA: 22/06/2004
+RA: 106190054, Digito 1, DATA: 22/06/2004
+RA: 106190056, Digito 1, DATA: 22/06/2004
+RA: 106190055, Digito 1, DATA: 22/06/2004
+RA: 106190057, Digito 1, DATA: 22/06/2004
+RA: 106190056, Digito 1, DATA: 22/06/2004
+RA: 106190058, Digito 1, DATA: 22/06/2004
+RA: 106190057, Digito 1, DATA: 22/06/2004
+RA: 106190059, Digito 1, DATA: 22/06/2004
+RA: 106190058, Digito 1, DATA: 22/06/2004
+RA: 106190060, Digito 1, DATA: 22/06/2004
+RA: 106190059, Digito 1, DATA: 22/06/2004
+RA: 106190060, Digito 1, DATA: 22/06/2004
+RA: 106190061, Digito 1, DATA: 22/06/2004
+RA: 106190061, Digito 1, DATA: 22/06/2004
+RA: 106190062, Digito 1, DATA: 22/06/2004
+RA: 106190062, Digito 1, DATA: 22/06/2004
+RA: 106190063, Digito 1, DATA: 22/06/2004
+RA: 106190063, Digito 1, DATA: 22/06/2004
+RA: 106190064, Digito 1, DATA: 22/06/2004
+RA: 106190065, Digito 1, DATA: 22/06/2004
+RA: 106190064, Digito 1, DATA: 22/06/2004
+RA: 106190065, Digito 1, DATA: 22/06/2004
+RA: 106190066, Digito 1, DATA: 22/06/2004
+RA: 106190066, Digito 1, DATA: 22/06/2004
+RA: 106190067, Digito 1, DATA: 22/06/2004
+RA: 106190067, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:19:41
+RA: 106190068, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:19:41
+RA: 106190069, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:19:41
+RA: 106190070, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:19:41
+RA: 106190071, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:19:41
+RA: 106190072, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:19:41
+RA: 106190073, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:19:41
+RA: 106190073, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:22:12
+RA: 106190074, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:22:32
+RA: 106190075, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:23:00
+RA: 106190076, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:23:22
+RA: 106190077, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:23:49
+RA: 106190078, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:24:09
+RA: 106190079, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:24:35
+RA: 106190080, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:25:03
+RA: 106190081, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:25:30
+RA: 106190082, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:25:54
+RA: 106190083, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:26:22
+RA: 106190084, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:26:47
+RA: 106190085, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:27:14
+RA: 106190086, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:27:40
+RA: 106190087, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:28:04
+RA: 106190088, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:28:28
+RA: 106190089, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:28:52
+RA: 106190090, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:29:15
+RA: 106190091, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:29:40
+RA: 106190092, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:30:05
+RA: 106190093, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:30:28
+RA: 106190094, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:30:54
+RA: 106190095, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:31:18
+RA: 106190096, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:31:43
+RA: 106190097, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:32:05
+RA: 106190098, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:32:34
+RA: 106190099, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:33:02
+RA: 106190100, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:33:29
+RA: 106190101, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:33:54
+RA: 106190102, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:34:15
+RA: 106190103, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:34:38
+RA: 106190104, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:35:04
+RA: 106190105, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:35:26
+RA: 106190106, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:35:49
+RA: 106190107, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:36:13
+RA: 106190108, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:36:36
+RA: 106190109, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:37:02
+RA: 106190110, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:37:25
+RA: 106190111, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:37:50
+RA: 106190112, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:38:15
+RA: 106190113, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:38:38
+RA: 106190114, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:39:02
+RA: 106190115, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:39:26
+RA: 106190116, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:39:51
+RA: 106190117, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:40:19
+RA: 106190118, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:40:42
+RA: 106190119, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:41:07
+RA: 106190120, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:41:31
+RA: 106190121, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:41:53
+RA: 106190122, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:42:17
+RA: 106190123, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:42:40
+RA: 106190124, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:43:05
+RA: 106190125, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:43:27
+RA: 106190126, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:43:50
+RA: 106190127, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:44:13
+RA: 106190128, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:44:38
+RA: 106190129, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:44:59
+RA: 106190130, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:45:23
+RA: 106190131, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:45:47
+RA: 106190132, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:46:10
+RA: 106190133, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:46:33
+RA: 106190134, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:46:56
+RA: 106190135, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:47:19
+RA: 106190136, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:47:41
+RA: 106190137, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:48:04
+RA: 106190138, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:48:28
+RA: 106190139, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:48:52
+RA: 106190140, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:49:15
+RA: 106190141, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:49:40
+RA: 106190142, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:50:05
+RA: 106190143, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:50:28
+RA: 106190144, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:50:52
+RA: 106190145, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:51:16
+RA: 106190146, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:51:41
+RA: 106190147, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:52:05
+RA: 106190148, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:52:28
+RA: 106190149, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:52:52
+RA: 106190150, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:53:14
+RA: 106190151, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:53:35
+RA: 106190152, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:53:59
+RA: 106190153, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:54:23
+RA: 106190154, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:54:44
+RA: 106190155, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:55:07
+RA: 106190156, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:55:32
+RA: 106190157, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:55:54
+RA: 106190158, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:56:18
+RA: 106190159, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:56:40
+RA: 106190160, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:57:04
+RA: 106190161, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:57:27
+RA: 106190162, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:57:49
+RA: 106190163, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:58:12
+RA: 106190164, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:58:33
+RA: 106190165, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:58:54
+RA: 106190166, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:59:17
+RA: 106190167, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 01:59:41
+RA: 106190168, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:00:06
+RA: 106190169, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:00:29
+RA: 106190170, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:00:52
+RA: 106190171, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:01:15
+RA: 106190172, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:01:39
+RA: 106190173, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:02:01
+RA: 106190174, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:02:25
+RA: 106190175, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:02:50
+RA: 106190176, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:03:13
+RA: 106190177, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:03:35
+RA: 106190178, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:03:57
+RA: 106190179, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:04:20
+RA: 106190180, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:04:43
+RA: 106190181, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:05:07
+RA: 106190182, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:05:29
+RA: 106190183, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:05:52
+RA: 106190184, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:06:17
+RA: 106190185, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:06:41
+RA: 106190186, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:07:04
+RA: 106190187, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:07:27
+RA: 106190188, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:07:51
+RA: 106190189, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:08:12
+RA: 106190190, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:08:35
+RA: 106190191, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:08:58
+RA: 106190192, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:09:20
+RA: 106190193, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:09:43
+RA: 106190194, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:10:07
+RA: 106190195, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:10:32
+RA: 106190196, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:10:54
+RA: 106190197, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:11:17
+RA: 106190198, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:11:40
+RA: 106190199, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:12:03
+RA: 106190200, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:12:25
+RA: 106190201, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:12:49
+RA: 106190202, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:13:11
+RA: 106190203, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:13:33
+RA: 106190204, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:13:58
+RA: 106190205, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:14:20
+RA: 106190206, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:14:44
+RA: 106190207, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:15:06
+RA: 106190208, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:15:29
+RA: 106190209, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:15:55
+RA: 106190210, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:16:18
+RA: 106190211, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:16:41
+RA: 106190212, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:17:05
+RA: 106190213, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:17:29
+RA: 106190214, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:17:50
+RA: 106190215, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:18:13
+RA: 106190216, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:18:36
+RA: 106190217, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:18:59
+RA: 106190218, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:19:23
+RA: 106190219, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:19:45
+RA: 106190220, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:20:10
+RA: 106190221, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:20:32
+RA: 106190222, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:20:56
+RA: 106190223, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:21:19
+RA: 106190224, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:21:42
+RA: 106190225, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:22:05
+RA: 106190226, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:22:31
+RA: 106190227, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:22:55
+RA: 106190228, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:23:19
+RA: 106190229, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:23:40
+RA: 106190230, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:24:01
+RA: 106190231, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:24:24
+RA: 106190232, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:24:47
+RA: 106190233, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:25:11
+RA: 106190234, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:25:34
+RA: 106190235, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:25:57
+RA: 106190236, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:26:19
+RA: 106190237, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:26:42
+RA: 106190238, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:27:05
+RA: 106190239, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:27:28
+RA: 106190240, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:27:52
+RA: 106190241, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:28:14
+RA: 106190242, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:28:37
+RA: 106190243, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:29:00
+RA: 106190244, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:29:25
+RA: 106190245, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:29:48
+RA: 106190246, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:30:11
+RA: 106190247, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:30:34
+RA: 106190248, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:30:58
+RA: 106190249, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:31:21
+RA: 106190250, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:31:45
+RA: 106190251, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:32:08
+RA: 106190252, Digito 1, Data do boletim: 22/06/2004 Tempo: 2023-05-12 02:32:31
