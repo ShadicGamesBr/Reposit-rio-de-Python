@@ -15,6 +15,7 @@ driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 7)
 pontos = 0
 num = []
+disciplinas = ['Arte', 'Biologia', 'Filosofia', 'Física', 'Geografia', 'História', 'Inglês', 'Português', 'Matemática', 'Química', 'Sociologia']
 #boletim = {"bimestre1":[], "bimestre2":[],"bimestre":[],"bimestre":[]}
 for ano in range(2015, 2022):
     try:
@@ -25,6 +26,7 @@ for ano in range(2015, 2022):
             print("\n")
 
             for notn in range(1, 13):
+                print(f'\033[36m{disciplinas[notn]}\033[m', end=" :")
                 for bim in range(2, 15, 4):
                     bimnot = wait.until(EC.visibility_of_element_located(
                     (By.XPATH, f'/html/body/div/div/div[4]/table/tbody/tr[{notn}]/td[{bim}]'))).text
@@ -38,5 +40,9 @@ for ano in range(2015, 2022):
     except:
         print(f"\033[34m\033Não consegui ver este boletim![m")
 driver.quit()
+
 print(f"\033[33mPontos totais {pontos}\033[m"
-      f"\n\033[32mMédia do aluno total: {pontos/int(len(num)):.2f}")
+          f"\n\033[32mMédia do aluno total: {pontos/int(len(num)):.2f}")
+for quant in range(10, -1, -1):
+    print(f"Quantidade de {quant}: {num.count(f'{quant}')}")
+
