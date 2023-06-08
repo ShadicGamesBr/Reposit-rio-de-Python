@@ -28,7 +28,7 @@ for ano in range(2015, 2022):
                     bimnot = wait.until(EC.presence_of_all_elements_located(
                     (By.XPATH, f'/html/body/div/div/div[4]/table/tbody/tr[{notn}]/td[{bim}]')))[0].text
                     num.append(bimnot)
-                    #print(f"{bimnot}", end=" ")
+                    print(f"{bimnot}", end=" ")
                 print()
                 
 
