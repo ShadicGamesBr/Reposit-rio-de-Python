@@ -10,7 +10,7 @@ data = "23/06/2003"
 digito = '1'
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 7)
-artes =[]
+artes = ()
 for ano in range(2015, 2016):
     try:
         try:
@@ -30,8 +30,8 @@ for ano in range(2015, 2016):
                         print("", end="")
                     
                     if ano == 2015:
-                        if bim == 2:
-                            artes.append(bimnot)
+                        if bim == 1:
+                            artes.append(bimnot)                        
                 print()
         except:
             print("\n\n\n")
