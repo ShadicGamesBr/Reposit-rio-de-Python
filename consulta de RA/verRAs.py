@@ -10,7 +10,7 @@ data = "23/06/2003"
 digito = '1'
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 7)
-artes = ()
+arte = []
 for ano in range(2015, 2016):
     try:
         try:
@@ -28,14 +28,10 @@ for ano in range(2015, 2016):
                         notas_disciplina.append(bimnot)
                     else:
                         print("", end="")
-                    
-                    if ano == 2015:
-                        if bim == 1:
-                            artes.append(bimnot)                        
                 print()
         except:
             print("\n\n\n")
     except:
         print(f"\033[34m\033Não consegui ver este boletim![m")
 driver.quit()
-print(artes)
+print(arte)
