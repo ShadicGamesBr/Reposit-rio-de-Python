@@ -10,8 +10,8 @@ data = "23/06/2003"
 digito = '1'
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 7)
-disciplina = {"1bim":[],"2bim":[],"3bim":[],"4bim":[]}
-for ano in range(2015, 2022):
+artes =[]
+for ano in range(2015, 2016):
     try:
         try:
             print(f"Ano de \033[34m{ano}\033[m")
@@ -26,15 +26,16 @@ for ano in range(2015, 2022):
                     if bimnot in ('10') or bimnot in ('123456789'):
                         print(f"\033[32m{bimnot}\033[m", end=" ")
                         notas_disciplina.append(bimnot)
-                        
                     else:
                         print("", end="")
-                    notaBim[f'Ano de {ano}'] = notas_disciplina
-                    notas_disciplina.clear
+                    
+                    if ano == 2015:
+                        if bim == 2:
+                            artes.append(bimnot)
                 print()
         except:
             print("\n\n\n")
     except:
         print(f"\033[34m\033Não consegui ver este boletim![m")
 driver.quit()
-print(notaBim)
+print(artes)

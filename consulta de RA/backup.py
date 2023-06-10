@@ -23,7 +23,7 @@ for ano in range(2015, 2022):
             driver.get(
                 f"https://sed.educacao.sp.gov.br/Boletim/GerarBoletimUnificadoExterno?nrRa={'000'+ra}&nrDigRa={digito}&dsUfRa=SP&dtNascimento={data}&nrAnoLetivo={000+ano}"),
             print("\n")
-
+ 
             for notn in range(1, 13):
                 for bim in range(2, 15, 4):
                     bimnot = wait.until(EC.presence_of_all_elements_located(
