@@ -11,7 +11,7 @@ digito = '1'
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 7)
 arte = []
-for ano in range(2015, 2016):
+for ano in range(2015, 2022):
     try:
         try:
             print(f"Ano de \033[34m{ano}\033[m")
