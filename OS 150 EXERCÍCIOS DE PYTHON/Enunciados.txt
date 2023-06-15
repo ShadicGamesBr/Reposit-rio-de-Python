@@ -38,7 +38,9 @@
 2 - Escreva um programa que use o módulo NumPy para trabalhar com matrizes e cálculos numéricos em Python.
 
 3 - Escreva um programa que use o módulo Matplotlib para criar gráficos e visualizações em Python.
+
 4 - Escreva um programa que use o módulo Seaborn para criar gráficos estatísticos e visualizações em Python.
+
 5 - Escreva um programa que use o módulo Scikit-learn para realizar aprendizado de máquina em Python.
 6 - Escreva um programa que use o módulo TensorFlow para criar e treinar modelos de aprendizado de máquina em Python.
 7 - Escreva um programa que use o módulo Keras para criar e treinar redes neurais em Python.
