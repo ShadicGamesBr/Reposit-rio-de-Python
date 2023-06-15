@@ -34,7 +34,9 @@
         Bibliotecas e Ferramentas em Python
 
 1 - Escreva um programa que use o módulo pandas para trabalhar com dados em Python.
+
 2 - Escreva um programa que use o módulo NumPy para trabalhar com matrizes e cálculos numéricos em Python.
+
 3 - Escreva um programa que use o módulo Matplotlib para criar gráficos e visualizações em Python.
 4 - Escreva um programa que use o módulo Seaborn para criar gráficos estatísticos e visualizações em Python.
 5 - Escreva um programa que use o módulo Scikit-learn para realizar aprendizado de máquina em Python.
