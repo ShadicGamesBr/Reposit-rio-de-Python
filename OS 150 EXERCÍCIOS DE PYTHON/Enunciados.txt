@@ -25,7 +25,9 @@
 12 - Escreva um programa que peça ao usuário para digitar três números e, em seguida, exiba a média desses números.
 
 13 - Escreva um programa que peça ao usuário para digitar um número e, em seguida, exiba se o número é um quadrado perfeito ou não.
+
 14 - Escreva um programa que peça ao usuário para digitar um número e, em seguida, exiba os primeiros n números da sequência de Fibonacci, onde n é o número digitado pelo usuário.
+
 15 - Escreva um programa que peça ao usuário para digitar uma palavra e, em seguida, exiba a contagem de vogais e consoantes na palavra.
 
 
