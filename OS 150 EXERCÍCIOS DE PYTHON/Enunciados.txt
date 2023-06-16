@@ -42,48 +42,57 @@
 4 - Escreva um programa que use o módulo Seaborn para criar gráficos estatísticos e visualizações em Python.
 
 5 - Escreva um programa que use o módulo Scikit-learn para realizar aprendizado de máquina em Python.
+
 6 - Escreva um programa que use o módulo TensorFlow para criar e treinar modelos de aprendizado de máquina em Python.
+
 7 - Escreva um programa que use o módulo Keras para criar e treinar redes neurais em Python.
+
 8 - Escreva um programa que use o módulo OpenCV para processamento de imagens e visão computacional em Python.
+
 9 - Escreva um programa que use o módulo NLTK para processamento de linguagem natural em Python.
-10 -Escreva um programa que use o módulo Pygame para criar jogos em Python.
-11 -Escreva um programa que use o módulo Flask para criar aplicativos da web em Python.
-12 -Escreva um programa que use o módulo Django para criar aplicativos da web em Python.
-13 -Escreva um programa que use o módulo BeautifulSoup para fazer raspagem de dados na web em Python.
-14 -Escreva um programa que use o módulo Requests para fazer solicitações HTTP em Python.
-15 -Escreva um programa que use o módulo Scrapy para fazer raspagem de dados na web de maneira estruturada em Python.
+
+10 - Escreva um programa que use o módulo Pygame para criar jogos em Python.
+
+11 - Escreva um programa que use o módulo Flask para criar aplicativos da web em Python.
+
+12 - Escreva um programa que use o módulo Django para criar aplicativos da web em Python.
+
+13 - Escreva um programa que use o módulo BeautifulSoup para fazer raspagem de dados na web em Python.
+
+14 - Escreva um programa que use o módulo Requests para fazer solicitações HTTP em Python.
+15 - Escreva um programa que use o módulo Scrapy para fazer raspagem de dados na web de maneira estruturada em Python.
 
 
         Manipulação de arquivos
 
-1 -  Escreva um programa que solicite ao usuário que digite uma palavra ou frase e, em seguida, exiba a contagem de cada palavra na entrada.
-2 -  Escreva um programa que leia um arquivo de texto e exiba o número de palavras, o número de linhas e o tamanho total do arquivo em bytes.
-3 -  Escreva um programa que leia um arquivo CSV e exiba o conteúdo na tela em forma de tabela.
-4 -  Escreva um programa que leia um arquivo de texto e crie um novo arquivo com as palavras em ordem alfabética.
-5 -  Escreva um programa que solicite ao usuário que digite um número inteiro e, em seguida, exiba todos os números primos menores que o número digitado.
-6 -  Escreva um programa que solicite ao usuário que digite um número e, em seguida, exiba o valor da função exponencial e^x para o número digitado.
-7 -  Escreva um programa que solicite ao usuário que digite um número inteiro e, em seguida, exiba todos os números perfeitos menores que o número digitado.
-8 -  Escreva um programa que leia um arquivo de texto e exiba todas as linhas que contenham uma determinada palavra ou frase.
-9 -  Escreva um programa que leia um arquivo de texto e crie um novo arquivo com todas as palavras que aparecem mais de uma vez.
-10 -  Escreva um programa que leia um arquivo de texto e crie um novo arquivo com todas as palavras em letras maiúsculas.
-11 -  Escreva um programa que solicite ao usuário que digite um número e, em seguida, exiba a representação binária, octal e hexadecimal desse número.
-12 -  Escreva um programa que solicite ao usuário que digite uma lista de números separados por vírgula e, em seguida, exiba a soma desses números.
-13 -  Escreva um programa que leia um arquivo de texto e exiba todas as linhas que começam com um determinado caractere.
-14 -  Escreva um programa que solicite ao usuário que digite uma string e, em seguida, exiba a string invertida.
-15 -  Escreva um programa que leia um arquivo de texto e exiba as dez palavras mais frequentes.
+1 - Escreva um programa que solicite ao usuário que digite uma palavra ou frase e, em seguida, exiba a contagem de cada palavra na entrada.
+2 - Escreva um programa que leia um arquivo de texto e exiba o número de palavras, o número de linhas e o tamanho total do arquivo em bytes.
+3 - Escreva um programa que leia um arquivo CSV e exiba o conteúdo na tela em forma de tabela.
+4 - Escreva um programa que leia um arquivo de texto e crie um novo arquivo com as palavras em ordem alfabética.
+5 - Escreva um programa que solicite ao usuário que digite um número inteiro e, em seguida, exiba todos os números primos menores que o número digitado.
+6 - Escreva um programa que solicite ao usuário que digite um número e, em seguida, exiba o valor da função exponencial e^x para o número digitado.
+7 - Escreva um programa que solicite ao usuário que digite um número inteiro e, em seguida, exiba todos os números perfeitos menores que o número digitado.
+8 - Escreva um programa que leia um arquivo de texto e exiba todas as linhas que contenham uma determinada palavra ou frase.
+9 - Escreva um programa que leia um arquivo de texto e crie um novo arquivo com todas as palavras que aparecem mais de uma vez.
+10 - Escreva um programa que leia um arquivo de texto e crie um novo arquivo com todas as palavras em letras maiúsculas.
+11 - Escreva um programa que solicite ao usuário que digite um número e, em seguida, exiba a representação binária, octal e hexadecimal desse número.
+12 - Escreva um programa que solicite ao usuário que digite uma lista de números separados por vírgula e, em seguida, exiba a soma desses números.
+13 - Escreva um programa que leia um arquivo de texto e exiba todas as linhas que começam com um determinado caractere.
+14 - Escreva um programa que solicite ao usuário que digite uma string e, em seguida, exiba a string invertida.
+15 - Escreva um programa que leia um arquivo de texto e exiba as dez palavras mais frequentes.
 
 
         Estruturas de dados avançadas
 
-1 -  Escreva um programa que implemente uma pilha usando uma lista e permita que o usuário execute as operações push e pop na pilha.
-2 -  Escreva um programa que leia um arquivo de texto e exiba todas as palavras que começam com uma vogal.
-3 -  Escreva um programa que implemente uma fila usando uma lista e permita que o usuário execute as operações enqueue e dequeue na fila.
-4 -  Escreva um programa que leia um arquivo de texto e exiba todas as palavras que terminam com uma consoante.
-5 -  Escreva um programa que implemente uma árvore binária de busca e permita que o usuário execute as operações de inserção e remoção na árvore.
-6 -  Escreva um programa que leia um arquivo de texto e exiba todas as palavras que contêm uma determinada sequência de caracteres.
-7 -  Escreva um programa que implemente uma tabela hash usando uma lista e permita que o usuário execute as operações de inserção, remoção e pesquisa na tabela.
-8 -  Escreva um programa que leia um arquivo de texto e exiba todas as palavras que possuem um número ímpar de letras.
-9 -  Escreva um programa que implemente uma pilha usando uma lista encadeada e permita que o usuário execute as operações push e pop na pilha.
+1 - Escreva um programa que implemente uma pilha usando uma lista e permita que o usuário execute as operações push e pop na pilha.
+2 - Escreva um programa que leia um arquivo de texto e exiba todas as palavras que começam com uma vogal.
+3 - Escreva um programa que implemente uma fila usando uma lista e permita que o usuário execute as operações enqueue e dequeue na fila.
+4 - Escreva um programa que leia um arquivo de texto e exiba todas as palavras que terminam com uma consoante.
+5 - Escreva um programa que implemente uma árvore binária de busca e permita que o usuário execute as operações de inserção e remoção na árvore.
+6 - Escreva um programa que leia um arquivo de texto e exiba todas as palavras que contêm uma determinada sequência de caracteres.
+7 - Escreva um programa que implemente uma tabela hash usando uma lista e permita que o usuário execute as operações de inserção, remoção e pesquisa na tabela.
+8 - Escreva um programa que leia um arquivo de texto e exiba todas as palavras que possuem um número ímpar de letras.
+9 - Escreva um programa que implemente uma pilha usando uma lista encadeada e permita que o usuário execute as operações push e pop na pilha.
 10 - Escreva um programa que leia um arquivo de texto e exiba todas as palavras que possuem um número par de letras.
 11 - Escreva um programa que implemente uma fila usando uma lista encadeada e permita que o usuário execute as operações enqueue e dequeue na fila.
 12 - Escreva um programa que leia um arquivo de texto e exiba todas as palavras que são palíndromos.
