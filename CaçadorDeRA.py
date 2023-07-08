@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 import datetime
-
+total = 0
 texto = open("R.AsCaçados.txt", "a")
 log = open("log.txt", "a")
 for raNum in range(106190323, 107409999):

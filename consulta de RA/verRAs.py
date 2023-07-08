@@ -5,12 +5,13 @@ from selenium.webdriver.support import expected_conditions as EC
 from matplotlib import pyplot as plt
 from copy import deepcopy
 
-ra = '107058875'
-data = "23/06/2003"
-digito = '1'
+ra = '105198955'
+data = "02/11/2002"
+digito = '3'
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 7)
 arte = []
+total = []
 for ano in range(2015, 2022):
     try:
         try:
@@ -27,6 +28,10 @@ for ano in range(2015, 2022):
                         print(f"\033[32m{bimnot}\033[m", end=" ")
                         notas_disciplina.append(bimnot)
                     else:
+                        print(end="")
+                    if bimnot.isnumeric():
+                        total.append(int(bimnot))
+                    else:
                         print("", end="")
                 print()
         except:
@@ -35,3 +40,5 @@ for ano in range(2015, 2022):
         print(f"\033[34m\033Não consegui ver este boletim![m")
 driver.quit()
 print(arte)
+print(f"\nMédia total: ")
+print(f"{(sum(total)/len(total)):.2f}")

@@ -1,8 +1,19 @@
 import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-# Configurações para a exibição dos resultados
-np.set_printoptions(precision=3, suppress=True)
+# Criando um array NumPy com dados aleatórios
+data = np.random.randn(100)
 
-# Exemplo de uso
-matriz = np.array([[1.23456789, 2.3456789], [3.456789, 4.56789]])
-print(matriz)
+# Criando um dataframe do Pandas a partir dos dados do NumPy
+df = pd.DataFrame(data, columns=['Valor'])
+
+# Plotando um histograma usando o Seaborn e o Matplotlib
+sns.histplot(data=df, x='Valor', kde=True)
+
+# Adicionando um título ao gráfico usando o Matplotlib
+plt.title('Histograma')
+
+# Exibindo o gráfico
+plt.show()
