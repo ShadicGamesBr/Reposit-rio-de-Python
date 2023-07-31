@@ -5,9 +5,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from matplotlib import pyplot as plt
 from copy import deepcopy
 
-ra = '105198955'
-data = "02/11/2002"
-digito = '3'
+ra = '107058875'
+data = "23/06/2003"
+digito = '1'
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 7)
 arte = []
