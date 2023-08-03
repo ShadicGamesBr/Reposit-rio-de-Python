@@ -1,19 +1,24 @@
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
+#from scrollable_plots import scrollable
 
-# Criando um array NumPy com dados aleatórios
-data = np.random.randn(100)
+lista = [[10, 10, 10, 8], [8, 8, 9, 10], [10, 8, 8, 5], [10, 7, 9, 8], [7, 6, 6, 7], [8, 6, 8, 8], [9, 9, 8, 10], [10, 10, 9, 10], [9, 8, 9, 9], [7, 6, 5, 8], [10, 9, 8, 10], [10, 8, 9, 8]]
 
-# Criando um dataframe do Pandas a partir dos dados do NumPy
-df = pd.DataFrame(data, columns=['Valor'])
+disciplinas = ("Artes", "Biologia", "Educação física", "Filosofia", "Física", "Geografia", "História", "Inglês", "Língua portuguesa", "Matemática", "Química", "Sociologia")
 
-# Plotando um histograma usando o Seaborn e o Matplotlib
-sns.histplot(data=df, x='Valor', kde=True)
+numDisciplinas = len(disciplinas)
 
-# Adicionando um título ao gráfico usando o Matplotlib
-plt.title('Histograma')
+fig, axs = plt.subplots(nrows=numDisciplinas)
 
-# Exibindo o gráfico
-plt.show()
+for i in range(0, len(disciplinas)-1):
+    ax = axs[i]
+    plt.bar(range(1, 5), lista[i], color="black")
+    plt.grid(axis="y", color="gray", linestyle="--", linewidth="0.5")
+    plt.ylabel("Nota")
+    plt.xlabel("Bimestre")
+    plt.title(f"Notas por bimestre\n {disciplinas[i]}")
+
+    #Ajusta o espaçamento entre os gráficos
+    plt.tight_layout()
+
+    #Mostra o gráfico composto
+    plt.show()
