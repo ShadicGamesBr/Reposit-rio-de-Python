@@ -8,7 +8,7 @@ while True:
         valores.append(i)
     sorteado = sample(valores, k=6)
     sorteado.sort(reverse=False)
-    print(f"Os valores que voce escolheu foi: {sorted(per)}")
+    print(f"Os valores que voce escolheu foram: {sorted(per)}")
     print(f"Os valores da Mega Sena foram:    {sorteado}")
     per = str(input("Quer continuar ?")).lower().strip()
     if per not in "sn":
