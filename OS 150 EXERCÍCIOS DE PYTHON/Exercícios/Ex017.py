@@ -34,3 +34,4 @@ while True:
         per1 = str(input("Por favor, digite s/n")).strip().replace(" ", "").lower()
     if per1 in "n":
         break 
+ 
