@@ -1,5 +1,4 @@
 import numpy as np
-
 print("Calculadora de matrizes lineares")
 metodos = ["inv", "eig", "det", "qr", "svd", ]
 nomes = ["matriz inversa", "Autovalores", "Determinante", "Decomposição QR", "Decomposição singular"]
