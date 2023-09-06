@@ -9,7 +9,7 @@ while True:
 
     if operadores == 1:
         conta = str(input("Operar: "))
-        print(conta)
+        print(conta) 
 
 
     if operadores == 2:
