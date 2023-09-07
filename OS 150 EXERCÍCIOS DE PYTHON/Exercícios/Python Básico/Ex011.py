@@ -13,3 +13,4 @@ try:
         print(f"O número {num} \033[31mnão\033[m é um número primo")
 except:
     print("Por favor digite apenas números inteiros :)")
+    

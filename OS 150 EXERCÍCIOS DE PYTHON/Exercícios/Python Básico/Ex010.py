@@ -7,3 +7,4 @@ try:
         sleep(0.1)
 except:
     print("Ocorreu um erro no programa, por gentileza tente novamente :)")
+    
