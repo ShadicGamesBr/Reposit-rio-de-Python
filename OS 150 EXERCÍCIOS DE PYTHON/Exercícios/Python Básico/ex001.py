@@ -8,4 +8,3 @@ try:
 except ImportError:
     print(
         "\033[31mNão consegui calcular, verifique se você digitou apenas números !\033[m")
-     
