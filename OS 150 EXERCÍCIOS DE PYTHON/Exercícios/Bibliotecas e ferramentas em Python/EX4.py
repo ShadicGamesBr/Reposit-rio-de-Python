@@ -1,11 +1,15 @@
 #Movimento oblíquio
 
 from matplotlib import pyplot as plt
-import seaborn as sb
+
 from math import radians,cos,sin
+
 from matplotlib.animation import FuncAnimation
+
 from functools import partial
+
 import numpy as np
+
 #Vo = float(input("Velocidade do objeto (m/s): ")) #velocidade em M/S
 #Ang = float(input("Ângulo do objeto °: ")) #angulo
 Vo = 50
