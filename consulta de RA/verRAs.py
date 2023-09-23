@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from matplotlib import pyplot as plt
 from copy import deepcopy
-import pandas
 
 ra = '107058875'
 data = "23/06/2003"
